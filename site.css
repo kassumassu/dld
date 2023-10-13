@@ -1,0 +1,141 @@
+@keyframes anima {
+    from {
+        transform: translateX(-300px); 
+    } 
+    to {
+        transform: translateX(0px); 
+    }
+} 
+.tausta1 {
+    background-color: black; 
+    width: 3000px; 
+    height: 2500px; 
+} 
+.a1 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: green; 
+    font-size: 150px; 
+    transition: 2s; 
+} 
+.a1:hover {
+    color: red; 
+} 
+.a2 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: green; 
+    font-size: 150px; 
+    transition: 2s; 
+} 
+.a2:hover { 
+    color: red; 
+} 
+.a3 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: green; 
+    font-size: 150px; 
+    transition: 2s; 
+} 
+.a3:hover { 
+    color: red; 
+} 
+.nappi {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    border: none; 
+    border-radius: 36px; 
+    background-color: red; 
+    font-size: 150px; 
+    transition: 2s; 
+} 
+.linkki1 {
+    color: green; 
+} 
+.a4 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: green; 
+    font-size: 150px; 
+    transition: 2s; 
+} 
+.a4:hover {
+    color: red; 
+} 
+.a5 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: green; 
+    font-size: 150px; 
+    transition: 2s; 
+} 
+.a5:hover { 
+    color: red; 
+}  
+.tausta2 {
+    background-color: black; 
+    width: 3000px; 
+    height: 2500px; 
+} 
+.a6 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: green; 
+    font-size: 150px; 
+    transition: 2s; 
+} 
+.a6:hover {
+    color: red; 
+} 
+.a7 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: green; 
+    font-size: 150px; 
+    transition: 2s; 
+} 
+.a7:hover {
+    color: red; 
+} 
+.a8 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: green; 
+    font-size: 150px; 
+    transition: 2s; 
+} 
+.a8:hover {
+    color: red; 
+} 
+.a9 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: green; 
+    font-size: 150px; 
+    transition: 2s; 
+} 
+.a9:hover { 
+    color: red; 
+} 
+.a10 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    color: green; 
+    font-size: 150px; 
+    transition: 2s; 
+} 
+.a10:hover { 
+    color: red; 
+}
